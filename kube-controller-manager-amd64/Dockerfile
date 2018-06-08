@@ -1,0 +1,2 @@
+FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.10.3
+MAINTAINER 5991500@qq.com
